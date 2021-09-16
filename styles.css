@@ -1,0 +1,68 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+    background-image: url(images/pattern-background-desktop.svg);
+    
+}
+
+p {
+    width: 300px;
+    margin: 25px auto;
+}
+
+.main-container {
+  
+    width: 450px;
+    margin: 100px auto 100px auto;
+    background-color: #ffffff;
+    height: 658px;
+    border-radius: 5%;
+    
+}
+
+.music-icon {
+    padding-right: 20px;
+}
+
+.change {
+    padding-left: 80px;
+}
+
+.hero-img {
+    border-radius: 5%;
+}
+
+.mid-section {
+    text-align: center;
+}
+
+.table-data {
+    background-color: hsl(225, 100%, 98%);
+    width: 300px;
+    margin: 0 auto 25px auto;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+.payment { 
+    width: 300px;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10%;
+    margin: 25px auto;
+}
+
+.payment:hover{
+    background-color: hsl(224, 23%, 55%);
+}
+
+.cancel {
+    border: none;
+    background-color: white;
+    color: lightgray;
+}
+
+.cancel:hover {
+    color: black;
+}
